@@ -1,5 +1,5 @@
 function UserProfile() {
-  const name = "Jordan Miles";
+  const name = "Teddy Rowland";
   const bio = "Software developer building clean and simple user interfaces.";
   const profileImage =
     "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200&h=200&fit=crop&crop=face";
